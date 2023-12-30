@@ -4,7 +4,7 @@
 context="""
 while True
 do
-  echo 'You are DONE'
+  echo 'YOU ARE FUCKED'
 done
 """
 
